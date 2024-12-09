@@ -1,28 +1,30 @@
-# SYLIP CORPORATION SALES ANALYSES
+# Visualizing Value: Sylip Corporation’s Roadmap to Profitability
 
 ## Table of Contents
 - [#Limitations](#limitations)
 
 ### Project Overview
 
-Here you can have a project description or more like a summary, Here you can have a project description or more like a summary
+Embark on a journey into the world of retail as this project uncovers valuable insights for Sylip Corporation, a versatile retail company offering household items, groceries, clothing, and more. Leveraging sales data, the project focuses on critical key performance indicators (KPIs) to provide actionable insights. Through meticulous data manipulation, analysis, and visualization, the project reveals region-wise profits, annual revenue, and yearly units sold, offering a comprehensive understanding of the company's performance. Armed with these insights, Sylip Corporation can make informed decisions to enhance profitability and drive overall success. Explore the power of data-driven recommendations in optimizing retail strategies and maximizing performance in the competitive marketplace.
 
 ### Data Source
 
-Sales Data: The primary dataset used for this analysis is the 'Sales_data.csv' file, containing detailed information about each sale made by the company
+Company Website: The primary dataset used for this analysis is the 'Sales_data.csv' file, containing detailed information about each sale made by the company across the globe.
 
-### Data Source
+### Technology
 
-- Excel - Data Cleaning [Download Here](https://microsoft.com)
-- SQL Server - Data Analyses
-- PowerBI - Creating reports
+The following technologies were used in this project:
+•	Microsoft Excel: Excel was used to store and manage the sales data, and perform preliminary data analysis.
+•	SQL Server: SQL Server was utilized for data cleaning, transformation, and manipulation to prepare the data for analysis.
+•	Power BI: Power BI was used for data visualization and presentation, creating interactive and informative dashboards.
 
-### Data Cleaning/Preparation
+
+### Skills
   
-In the initial data preparation phase, we performed the following tasks;
-1. Data loading and inspection.
-2. Handling missing values.
-3. Data cleaning and formatting.
+The project required the following skills:
+•	Data manipulation
+•	Data analysis
+•	Data visualization
 
 ### Exploratory Data Analysis
 
