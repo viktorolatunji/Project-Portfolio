@@ -14,23 +14,23 @@ Company Website: The primary dataset used for this analysis is the 'Sales_data.c
 ### Technology
 
 The following technologies were used in this project:
-•	Microsoft Excel: Excel was used to store and manage the sales data, and perform preliminary data analysis.
-•	SQL Server: SQL Server was utilized for data cleaning, transformation, and manipulation to prepare the data for analysis.
-•	Power BI: Power BI was used for data visualization and presentation, creating interactive and informative dashboards.
+- Microsoft Excel: Excel was used to store and manage the sales data, and perform preliminary data analysis.
+- SQL Server: SQL Server was utilized for data cleaning, transformation, and manipulation to prepare the data for analysis.
+- Power BI: Power BI was used for data visualization and presentation, creating interactive and informative dashboards.
 
 
 ### Skills
   
 The project required the following skills:
-•	Data manipulation
-•	Data analysis
-•	Data visualization
+- Data manipulation
+- Data analysis
+- Data visualization
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the sales data to answer key questions, such as;
-- what is the overall sales trend?
-- what is the overall sales trend?
+To explore the interactive Power BI dashboards and dive deeper into the Sylip Corporation Sales Analysis project, visit the link: [Sylip Corporation Sales Analysis](www.powerbi.com)
+Feel free to reach out to the project team for any additional information or inquiries. Happy exploring!
+
 
 ### Data Analysis
 
@@ -42,7 +42,9 @@ SELECT * FROM SALES DATA
 
 ### Results
 
-In the initial data preparation phase, we performed the following tasks;
+The Sylip Corporation Sales Analysis project involved utilizing sales data from a retail company that specializes in various products. The aim was to provide the company with valuable insights into key performance indicators (KPIs) such as region-wise profits, annual revenue, and yearly units sold. The project involved data manipulation, analysis, and visualization to provide actionable recommendations that could improve the company's profitability and overall performance.
+The project resulted in a comprehensive analysis of sales data that provided the company with valuable insights into critical KPIs such as region-wise profits, annual revenue, and yearly units sold. Through the project, actionable recommendations were provided that could improve the company's profitability and overall performance. The project demonstrated the power of data analysis and visualization in driving business decisions and performance. Overall, the project showcased the ability to leverage Excel, SQL Server, and Power BI to extract, analyze, and visualize data to provide actionable insights and recommendations.
+
 
 ### Recommendations
 
