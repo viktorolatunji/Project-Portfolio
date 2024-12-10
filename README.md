@@ -58,11 +58,12 @@ The project resulted in a comprehensive analysis of sales data that provided the
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-- High-Margin Categories: Clothes (67.52%) offer the highest gross profit margin, while Cereal (43.49%) and Vegetables (41.51%) balance affordability with profitability. Low-margin items include Meat (13.62%) and high-cost products like Office Supplies (19.44%).
+- Prioritize High-Performing Regions and Products: Focus on Sub-Saharan Africa (28.88% revenue, $12.18M profit) and Europe (24.30% revenue, $11.08M profit) for market expansion. Invest in high-margin products like Clothes (67.52%), Cereal (43.49%), and Vegetables (41.51%) to maximize profitability.
 
-- Top Revenue Regions: Sub-Saharan Africa (28.88%, $12.18M profit) and Europe (24.30%, $11.08M profit) dominate revenue generation. Moderate contributors include Asia (15.54%, $6.11M profit) and Australia/Oceania (10.26%, $4.72M profit), while North America lags with only 4.11% revenue and $1.46M profit.
+- Improve Efficiency in Moderate and Emerging Markets: Optimize supply chains and target marketing in regions like Asia (15.54% revenue, $6.11M profit) and MENA (10.23% revenue, $5.76M profit). Explore growth potential in emerging markets to increase profitability and market share.
 
-- Revenue Disparity by Countries: Honduras (£6.34M), Myanmar (£6.16M), Djibouti (£6.05M), and Turkmenistan (£5.82M) lead revenue, totaling £24.37M. Conversely, Kuwait (£4.87K), Kyrgyzstan (£19.10K), New Zealand (£20.40K), and Slovakia (£26.34K) generate a combined £70.72K, highlighting significant disparities.
+- Address Underperformance in Low-Contributing Regions: Conduct market analysis in underperforming regions like North America (4.11% revenue, $1.46M profit) and Central America and the Caribbean (6.68% revenue, $2.85M profit) to address inefficiencies and better align products with consumer needs.
+
 
 
 ### Limitations
