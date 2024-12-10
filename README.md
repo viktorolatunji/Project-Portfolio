@@ -1,7 +1,11 @@
 # Visualizing Value: Sylip Corporation’s Roadmap to Profitability
 
 ## Table of Contents
-- [#Limitations](#limitations)
+- [Project Overview](#project-overview)
+- [Data Source](data_source)
+- [Technology](technology)
+- [Skills](skills)
+- [Exploratory Data Analaysis](exploratory-data-analysis)
 
 ### Project Overview
 
@@ -9,7 +13,7 @@ Embark on a journey into the world of retail as this project uncovers valuable i
 
 ### Data Source
 
-Company Website: The primary dataset used for this analysis is the 'Sales_data.csv' file, containing detailed information about each sale made by the company across the globe.
+Company Website: The company had 3 different datasets labelled "Sales Data","Order Data" and the "Purchase Data" generated from the central point of 7 regions, the company website.
 
 ### Technology
 
@@ -30,6 +34,9 @@ The project required the following skills:
 
 To explore the interactive Power BI dashboards and dive deeper into the Sylip Corporation Sales Analysis project, visit the link: [Sylip Corporation Sales Analysis](www.powerbi.com)
 Feel free to reach out to the project team for any additional information or inquiries. Happy exploring!
+
+![SYLIP DASHBOARD](https://github.com/user-attachments/assets/3491291c-ae6b-47c6-baeb-427e378320cd)
+
 
 
 ### Data Analysis
