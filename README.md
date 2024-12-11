@@ -32,7 +32,7 @@ The project required the following skills:
 
 ### Exploratory Data Analysis
 
-To explore the interactive Power BI dashboards and dive deeper into the Sylip Corporation Sales Analysis project, visit the link: [Sylip Corporation Sales Analysis](www.powerbi.com)
+To explore the interactive Power BI dashboards and dive deeper into the Sylip Corporation Sales Analysis project, visit the link: [Sylip Corporation Sales Analysis](https://project.novypro.com/qG6C3h)
 Feel free to reach out to the project team for any additional information or inquiries. Happy exploring!
 
 ![SYLIP DASHBOARD](https://github.com/user-attachments/assets/3491291c-ae6b-47c6-baeb-427e378320cd)
