@@ -20,7 +20,7 @@ Company Website: The company had 3 different datasets labelled "Sales Data","Ord
 The following technologies were used in this project:
 - Microsoft Excel: Excel was used to store and manage the sales data, and perform preliminary data analysis.
 - SQL Server: SQL Server was utilized for data cleaning, transformation, and manipulation to prepare the data for analysis.
-- Power BI: Power BI was used for data visualization and presentation, creating interactive and informative dashboards.
+- Power BI: Power BI was used for creating a relationship between the datasets, data visualization and presentation, creating interactive and informative dashboards.
 
 
 ### Skills
