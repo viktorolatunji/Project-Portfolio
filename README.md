@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Data Source](data_source)
+- [Data Source](data-source)
 - [Technology](technology)
 - [Skills](skills)
 - [Exploratory Data Analaysis](exploratory-data-analysis)
