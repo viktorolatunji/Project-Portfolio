@@ -1,4 +1,4 @@
-# Data-Driven Insight for optimization Web Analytics
+# Data-Driven Insight for optimization - Digital Echoes Web Analytics
 
 ## Table of Contents
 - [Description](description)
