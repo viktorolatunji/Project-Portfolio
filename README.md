@@ -2,12 +2,12 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Data Source](data-source)
-- [Technology](technology)
-- [Skills](skills)
-- [Exploratory Data Analaysis](exploratory-data-analysis)
-- [Results](results)
-- [Recommendations](recommendations)
+- [Data Source](#data-source)
+- [Technology](#technology)
+- [Skills](#skills)
+- [Exploratory Data Analaysis](#exploratory-data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 
