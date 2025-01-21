@@ -40,7 +40,7 @@ Feel free to reach out to the project team for any additional information or inq
 ![SYLIP DASHBOARD](https://github.com/user-attachments/assets/3491291c-ae6b-47c6-baeb-427e378320cd)
 
 
-The stakeholders wanted a detailed report on the following KPIs
+The stakeholders wanted a detailed report on the following Metrics
 - Compute total profit for all regions
 - Rate of Revenue achieved in all regions.
 - Determine the gross profit margin for each item type sold.
