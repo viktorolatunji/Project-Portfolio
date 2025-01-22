@@ -1,4 +1,4 @@
-![SYLIP DASHBOARD](https://github.com/user-attachments/assets/9088049e-2944-44f9-bab0-cb3dd026ee5c)# Visualizing Value: Sylip Corporation’s Roadmap to Profitability
+# Visualizing Value: Sylip Corporation’s Roadmap to Profitability
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -37,7 +37,7 @@ The project required the following skills:
 To explore the interactive Power BI dashboards and dive deeper into the Sylip Corporation Sales Analysis project, visit the link: [Sylip Corporation Sales Analysis](https://project.novypro.com/qG6C3h)
 Feel free to reach out to the project team for any additional information or inquiries. Happy exploring!
 
-![SYLIP DASHBOARD](https://github.com/user-attachments/assets/c6dbc114-842f-407c-92c3-3466eab96a29)
+![SYLIP DASHBOARD](https://github.com/user-attachments/assets/9088049e-2944-44f9-bab0-cb3dd026ee5c)
 
 
 The stakeholders wanted a detailed report on the following Metrics
