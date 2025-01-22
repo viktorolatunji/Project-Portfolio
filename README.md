@@ -1,3 +1,5 @@
+# Portfolio Projects
+
 ![SYLIP DASHBOARD](https://github.com/user-attachments/assets/9088049e-2944-44f9-bab0-cb3dd026ee5c)# Visualizing Value: Sylip Corporation’s Roadmap to Profitability
 
 ## Table of Contents
